@@ -27,6 +27,7 @@
         <remote.debug />
 
         <hibernate-validator-parent.path>..</hibernate-validator-parent.path>
+        <surefire.jvm.args.additional>-Duser.language=en</surefire.jvm.args.additional>
     </properties>
 
     <dependencies>
