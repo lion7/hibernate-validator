@@ -239,7 +239,7 @@
         <version.wildfly.plugin>1.2.1.Final</version.wildfly.plugin>
         <version.org.wildfly.core>14.0.0.Final</version.org.wildfly.core>
         <version.wildfly-patch-gen.plugin>2.1.0.Final</version.wildfly-patch-gen.plugin>
-        <version.wildfly-patch-gen.plugin.woodstox>5.0.3</version.wildfly-patch-gen.plugin.woodstox>
+        <version.wildfly-patch-gen.plugin.woodstox>5.4.0</version.wildfly-patch-gen.plugin.woodstox>
 
         <!-- Forbidden API related properties -->
         <forbiddenapis-junit.path>forbidden-junit.txt</forbiddenapis-junit.path>
